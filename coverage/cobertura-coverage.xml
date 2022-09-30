@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage lines-valid="2" lines-covered="0" line-rate="0" branches-valid="0" branches-covered="0" branch-rate="1" timestamp="1664553149025" complexity="0" version="0.1">
+  <sources>
+    <source>E:\cov</source>
+  </sources>
+  <packages>
+    <package name="main" line-rate="0" branch-rate="1">
+      <classes>
+        <class name="jest.config.js" filename="jest.config.js" line-rate="0" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+            <line number="1" hits="0" branch="false"/>
+            <line number="18" hits="0" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
